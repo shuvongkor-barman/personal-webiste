@@ -1,0 +1,162 @@
+
+body {
+    background-color: #E4F9F5;
+    margin: 0px; 
+    text-align: center; 
+    font-family: Arial, Helvetica, sans-serif,sans-serif;
+}
+
+p {
+    line-height: 2;
+}
+
+h1 {
+    font-family: arial, serif, Helvetica, sans-serif,sans-serif;
+    color:#66BFBF;
+    margin: 50px auto 0 auto;
+    font-size: 4rem;
+
+}
+
+h2{
+    color:#66BFBF;
+    font-size: 2.5rem;
+    font-weight: normal;
+    
+}
+
+.profile {
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+    
+}
+
+.myProfession{
+    color:#66BFBF;
+    font-size: 2.5rem;
+    font-weight: normal;
+    margin-bottom: 10px;
+}
+
+.myPic {
+    
+    display: block;
+    height:30%;
+    width: 30%;
+    max-width: 300px;
+    max-height: 300px;
+    min-width: 150px;
+    min-width: 150px;
+   
+    
+   margin: auto;
+
+}
+
+.myPhoto {
+    width: 100%;
+}
+
+
+
+
+.first-box  {
+background-color: #E4F9F5;
+position: relative;
+padding-top: 120px;
+
+}
+
+
+
+.top-cloud {
+    position: absolute;
+    right: 300px;
+    top: 10px;
+   
+
+}
+
+.bottom-cloud {
+    position: absolute;
+    left: 300px;
+    top: 30px;
+ 
+}
+
+.background-image {
+    width: 100%;
+    margin-top: 0px;
+}
+
+
+.skills-row {
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+   
+}
+
+.computer-skills {
+    width: 30%;
+    float: left;
+    margin-right: 30px;
+}
+
+.internet-skills {
+    width: 30%;
+    float: right;
+    margin-left: 30px;
+}
+
+
+
+hr {
+    border: dotted blueviolet;
+    border-bottom: none;
+    width: 4%;
+    margin: 100px auto;
+    
+}
+
+.btn {
+    background: #11cdd4;
+    color: #000;
+    border-radius: 10px;
+    padding: 10px;
+    font-size: 20px;
+    text-decoration: none;
+    color: white;
+}
+
+.btn:hover {
+ background: #30e3cb;   
+}
+
+
+
+.contact-me {
+    margin: 50px auto;
+}
+
+.bottom-section {
+    padding: 50px 0 20px;
+    background-color: #11cdd4;
+}
+
+a {
+    color: #11999E;
+    text-decoration: none;
+    margin: auto 20px auto 20px;
+}
+
+a:hover {
+    color: #EAF6F6;
+}
+
+.copyright {
+    font-size: 0.75rem;
+    margin-bottom: 0;
+}
+    
